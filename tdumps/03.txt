@@ -1,0 +1,151 @@
+addLicense
+_addLicenses@50240726
+addressesSubscription
+a de usar Spoofer para evitar bans de HWID!
+ and installing the recommended by ExLoader software, you agree to the license terms and conditions of the license agreement of the
+Ang ExLoader ay HINDI nagde-delete ng iyong YouTube browsing history, browser download history, mga email sa iyong mail, regular na browser history at social media subscriptions. Kailangan mong linisin iyon nang mag-isa!
+arm_crypto
+arm_v8_crypto_instructions
+brigens vergiss nicht, Spoofer zu verwenden, um HWID-Bans zu vermeiden!
+_BroadcastSubscription@5048458
+_BroadcastSubscription@5048458.
+BrowserCryptography
+bTc^
+bTcOW
+_BufferingStreamSubscription
+_BufferingStreamSubscription@5048458
+_BufferingStreamSubscription@5048458.
+_BufferingStreamSubscription@5048458.zoned
+By authenticating in the app you agree to the End user license agreement!
+CastStreamSubscription
+CastStreamSubscription.
+ClientCrypto
+ClientCrypto.
+clientCryptoInit2
+ClientCryptoInit2
+CommonCrypto
+CommonCrypto.
+_ControllerSubscription
+_ControllerSubscription@5048458
+_ControllerSubscription@5048458.2
+_createSubscription@5048458
+CryptoAction
+CryptoAction.
+crypto_box_afternm
+crypto_box_beforenm
+crypto_box_keypair
+crypto_box_open_afternm
+crypto_core_hsalsa20
+crypto_core_salsa20
+Cryptography
+_crypto_onetimeauth@1177287147
+_crypto_onetimeauth_verify@1177287147
+CryptoRNG
+crypto_scalarmult
+crypto_scalarmult_base
+crypto_secretbox2
+crypto_secretbox_open
+crypto_stream
+crypto_stream_salsa20
+crypto_stream_salsa20_xor
+crypto_stream_xor
+_crypto_verify_16@1177287147
+DartCryptography2
+_decodeZipCrypto@366421569
+decompressLicenses
+_DoneStreamSubscription@5048458
+_DoneStreamSubscription@5048458.2
+End User License Agreement
+_ensureRawSocketSubscription@15069316
+_eventStreamSubscription@417170333
+ExLoader does NOT delete your YouTube browsing history, browser download history, emails on your mail, regular browser history and social media subscriptions. You have to clean that by yourself!
+.exloader.net/end_user_license_agreement
+_ForwardingStreamSubscription@5048458
+_ForwardingStreamSubscription@5048458.
+{game} juda yaxshi anti-cheat tizimiga ega ekanligini unutmang, bu deyarli barcha bepul modifikatsiyalar o'yin taqiqiga olib kelishi yoki eng kichik yangilanishdan keyin ishlamay qolishi mumkinligini anglatadi. Biz bu modifikatsiyalarni faqat yo'qotishdan afsuslanmaydigan akkauntlarda ishlatishni va ularga ko'p o'rganib qolmaslikni tavsiya qilamiz! Aytgancha, HWID taqiqlaridan qochish uchun Spoofer ishlatishni unutmang!
+get:sourceOrLicense
+get:_subscription@5048458
+get:youConfirmThatYouHaveLicense2
+Harap perhatikan bahwa {game} memiliki sistem anti-cheat yang sangat baik, yang berarti hampir semua modifikasi gratis dapat menyebabkan ban game atau berhenti bekerja setelah pembaruan game terkecil. Kami sarankan menggunakan modifikasi ini hanya pada akun yang tidak akan kamu sesali kehilangannya dan jangan terlalu terbiasa dengan mereka! Btw jangan lupa gunakan Spoofer untuk menghindari ban HWID!
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography
+HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Cryptography
+hwId
+In case of selecting and/or using Legacy Launcher, you certify that you possess a valid Minecraft license and are opting for this method solely because technical issues prevent you from running the official licensed client.
+initLicenses
+isSubscriptionActive
+isSubscriptionDaysResettingRequired
+Issue in crypto listener:
+LicenseEntry
+LicenseEntryWithLineBreaks
+LicenseRegistry
+no olvides usar Spoofer para evitar baneos de HWID!
+_onLogStreamSubscription@417170333
+_onPlayerCompleteStreamSubscription@417170333
+_onSubscriptionStateChange@15069316
+package:cryptography/src/browser/browser_cryptography_when_not_browser.dart
+package:cryptography/src/cryptography/algorithms.dart
+package:cryptography/src/cryptography/cipher.dart
+package:cryptography/src/cryptography/cipher_state.dart
+package:cryptography/src/cryptography/cryptography.dart
+package:cryptography/src/cryptography/mac_algorithm.dart
+package:cryptography/src/cryptography/mac.dart
+package:cryptography/src/cryptography/secret_box.dart
+package:cryptography/src/cryptography/secret_key.dart
+package:cryptography/src/cryptography/sensitive_bytes.dart
+package:cryptography/src/dart/chacha20.dart
+package:cryptography/src/dart/cryptography.dart
+package:cryptography/src/dart/dart_cipher.dart
+package:cryptography/src/dart/dart_mac_algorithm.dart
+package:cryptography/src/dart/poly1305.dart
+package:cryptography/src/helpers/constant_time_equality.dart
+package:crypto/src/digest.dart
+package:crypto/src/digest_sink.dart
+package:crypto/src/hash.dart
+package:crypto/src/hash_sink.dart
+package:crypto/src/md5.dart
+package:crypto/src/sha256.dart
+package:exloader/network/crypto/client_crypto.dart
+package:exloader/network/crypto/common_crypto.dart
+package:exloader/network/crypto/nonce.dart
+package:exloader/network/isolate/packet_crypto_isolate.dart
+package:exloader/network/protocol/client/packets/client_crypto_init.dart
+package:exloader/network/protocol/server/packets/server_crypto_init.dart
+package:exloader/network/protocol/server/packets/subscription_update.dart
+package:flutter/src/foundation/licenses.dart
+PacketCryptoIsolate
+Pakitandaan na ang {game} ay may napakagandang anti-cheat system, na nangangahulugang halos lahat ng libreng modifications ay maaaring humantong sa game-ban o huminto sa paggana pagkatapos ng pinakamaliit na update ng laro. Inirerekomenda naming gamitin ang mga modifications na ito sa mga account lang na hindi mo pagsisisihan na mawala at huwag masyadong masanay sa kanila! Btw huwag kalimutang gumamit ng Spoofer para maiwasan ang HWID bans!
+parseLicenses
+_parseLicenses@50240726
+Payment Required2
+ perdere e non abituarti troppo a loro! A proposito, non dimenticare di usare Spoofer per evitare ban HWID!
+Please not that {game} has a very good anti-cheat system, which means that almost all free modifications may lead to a game-ban or stop working after the smallest game update. We recommend using these modifications only on those accounts that you won't regret loosing and don't get used to them very much! Btw do not forget to use Spoofer to avoid HWID bans!
+_removeSelectionRegistrarSubscription@262149678
+_removeSelectionRegistrarSubscription@266380248
+Sa pagpili at/o paggamit ng Legacy Launcher, pinatutunayan mo na mayroon kang wastong Minecraft license at pumipili ng paraang ito dahil lamang sa mga teknikal na isyu na pumipigil sa iyo na patakbuhin ang opisyal na lisensyadong kliyente.
+ServerCryptoInit.
+serverCryptoInit2
+ServerCryptoInit2
+set:_eventStreamSubscription@417170333
+set:_onLogStreamSubscription@417170333
+set:_onPlayerCompleteStreamSubscription@417170333
+set:_socketSubscription@150693162
+_SinkTransformerStreamSubscription@5048458
+_SinkTransformerStreamSubscription@5048458.
+_socketSubscription@15069316
+Source / license2
+Spawning isolate for crypto...
+StreamSubscription
+_subscription
+subscription
+subscriptionDaysToAddCount
+subscriptionExpires
+Subscription passed to TLS upgrade is paused
+subscriptionUpdate
+SubscriptionUpdate
+SubscriptionUpdate.
+_updateSelectionRegistrarSubscription@262149678
+_updateSelectionRegistrarSubscription@266380248
+Users who buy this modification with ExLoader receive pleasant and useful bonuses for each payment!
+utf8DecodeLicenses
+viter les bans HWID !
+zipCrypto
