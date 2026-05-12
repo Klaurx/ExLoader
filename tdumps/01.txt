@@ -1,0 +1,216 @@
+A Dart object attempted to access a native peer, but the native peer has been collected (nullptr). This is usually the result of calling methods on a native-backed object when the native resources have already been disposed.2
+All comments with profanity will be wrapped with a special warning temporarily hiding their appearance
+ anche lui non lo sa. Aspetta o gioca con un altro mod nel frattempo.
+appdata
+AppData
+APPDATA
+Assicurati di farci sapere se questa mod ha smesso di funzionare dopo un aggiornamento del gioco. Fisicamente non abbiamo tempo di tenere traccia di centinaia di mod e dei loro aggiornamenti, quindi abbiamo bisogno del tuo aiuto.
+attempted to read from offset
+Attempted to use type '
+_attemptLayout@278057554
+Attempt to access isolate static field '
+Attempt to execute code removed by Dart AOT compiler (TFA)
+ avec pendant un certain temps !
+cents, Documents, AppData, Historique des archives, Dossier du jeu, Trafic r
+cessaire pour stocker les fichiers cache du mod sur l'appareil et l'espace temporaire n
+cial masquant temporairement leur apparence
+Connection attempt cancelled, host:
+constrainSizeAndAttemptToPreserveAspectRatio
+_createLayoutTemplate@332105366
+ del mod en el dispositivo como el espacio temporal necesario para descomprimirlos antes del lanzamiento o la instalaci
+dia de tempo que as pessoas passam com este mod
+ di pulizia sui PC che non hanno reinstallato Windows da molto tempo. Questa funzione pulisce completamente anche i file nascosti del Cestino!
+Di solito questo valore include sia lo spazio necessario per memorizzare i file cache delle mod sul dispositivo sia lo spazio temporaneo necessario per decomprimerli prima dell'avvio o dell'installazione finale. Puoi anche stimare l'utilizzo della RAM durante l'avvio/installazione dividendo questo valore per ~2.
+ di {time} {time_word} (Per tutto il tempo di utilizzo della modifica per utente)
+:entry_points_temp
+:expr_temp
+Failed to copy ExLoader into temp folder (
+Failed to copy pdb file to a temp file:
+Failed to create temp folder for ExLoader copy: 2
+Failed to delete temp file:
+Failed to get temp or documents folder:
+Failed to restart ExLoader from temp path (
+File log berhasil disalin ke clipboard Anda. Tekan CTRL + V di chat atau tekan tempel untuk mengirimkannya ke dukungan.
+Folder tempat suara kustom akan disimpan
+Free Antivirus Avast blocks viruses, phishing attempts and spyware. It has ransomware protection to keep your files safe and can also detect weaknesses on your WiFi network. By accepting the offer i agree to install Avast Antivirus, and consent to its:
+get:isNotEmpty
+get:maxAttemptsReached
+_getOrCreateLayoutTemplate@332105366
+getPossibleAppDataOrDocumentsFolder
+getProperSystem32ToWow64Replacement
+GetSystemPowerStatus
+_GetSystemPowerStatus@471372610
+getTempDir
+getTemporaryDirectory
+getTemporaryPath2
+get:temporaryUnavailable
+GetTempPath
+GetTempPathW
+get:youAreTemporaryBanned
+HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData
+HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData
+Il tempo di gioco totale viene solitamente impostato al momento della creazione del commento o della pubblicazione della configurazione e viene aggiornato solo quando viene modificato!
+increaseAttempt
+:index_temp
+init:_GetSystemPowerStatus@471372610
+init:GetTempPath2
+Initial attempt to request packet
+init:localAppData
+init:maxConnectivityAttempts
+init:roamingAppDataPath
+init:system32Path
+init:temporaryFreeTimestamp
+init:_temporaryTransformHolder@261266271
+It seems that your device is missing the command line. To solve this problem, return cmd.exe file to the Windows\System32 folder on your system drive. Unfortunately, ExLoader won't work properly without such action on your side.
+It seems that you've ignored too many anti-spam warnings regarding an uninformative, spam, advertising, or deceptive content! In order to save you from moderator's ban, the auto-check system temporarily restricted your access to some of app's social features! Your ban expires on {date}.
+Itu saja! Ini skrip Anda, salin saja ke clipboard, tempel ke LUA Executor yang berfungsi dan mulai bermain. LUA Executor mana yang harus digunakan? Yang Anda anggap berfungsi, dapat diandalkan, dan aman! Sayangnya, ExLoader sendiri belum dibuat untuk eksekusi LUA, kami hanya dapat menawarkan unduhan skrip!
+Jalur tempat launcher Minecraft, mod, dan file terkait lainnya diinstal
+Jika Anda menemukan mod ini di suatu tempat di Internet dengan tulisan `Tidak ada virus`, ketahuilah - seseorang mencoba berbohong kepada Anda!
+ jouer avec aussi longtemps que tu veux. Nous esp
+ jour du jeu. Nous n'avons physiquement pas le temps de suivre des centaines de mods et leurs mises
+Kami telah mengumpulkan semua mod keren dan gratis untuk game populer di satu tempat
+Komentar untuk mod premium berbayar hanya dapat ditambahkan oleh mereka yang membelinya. Ini dapat dilakukan di situs web yang sama tempat kamu membeli mod ini!2
+Konfigurasi berhasil disalin ke clipboard Anda. Anda dapat menemukan tombol impor/tempel (atau nama serupa) di dalam menu mod untuk memuat konfigurasi ini.
+kTempBanData
+kTempLaunchArguments
+-la aberta por algum tempo
+Le temps de jeu total est g
+ limpar as strings dentro dos processos. Como este processo leva tempo, voc
+localAppData
+%LocalAppData%
+LOCALAPPDATA
+%LocalAppData%\Programs
+%LOCALAPPDATA%\Yandex\YandexBrowser\Application\browser.exe
+loopThroughSystemProcessesWithNtApi
+marreras l'application, les statistiques du profil seront temporairement r
+Masih butuh bantuan? Klik tombol kontak dukungan di halaman mod (jika tersedia), jelaskan cara mereproduksi crash-mu (sedetail mungkin), lampirkan video dengan demonstrasi crash, config-mu, info PC (sebanyak mungkin) dan file .mdmp crash terbaru (jika ada), yang bisa kamu temukan di dalam folder game (tempat game.exe berada). Tidak ada jawaban dari dukungan? Maka baca lagi pesan ini dan tulis kepada mereka apa yang diminta, bukan apa yang kamu inginkan. Tidak ada yang akan menjawab atau membantu orang yang tidak mau mengikuti langkah-langkah mudah ini dan berpikir bahwa menulis "halo" sudah cukup untuk masalahnya diperbaiki.
+maxConnectivityAttempts
+me, remettez le fichier cmd.exe dans le dossier Windows\System32 de votre disque syst
+ ms before next reconnection attempt... -----
+msvcr(\d+)\.dll
+ muito tempo. Este recurso limpa at
+Mukhang nawawala ang command line sa iyong device. Para malutas ang problemang ito, ibalik ang cmd.exe file sa Windows\System32 folder sa iyong system drive. Sa kasamaang palad, hindi gagana nang maayos ang ExLoader kung walang ganitong aksyon.
+ nascosto fino a {date}. La prossima volta che riavvierai l'app, le statistiche del profilo si resetteranno temporaneamente!
+n con una advertencia especial que oculta temporalmente su apariencia
+nea de comandos. Para resolver este problema, devuelve el archivo cmd.exe a la carpeta Windows\System32 en tu disco del sistema. Desafortunadamente, ExLoader no funcionar
+No executable was found in temp directory for app re-launch (
+No matter how hard we tried, all of our attempts to update the app have failed :c
+Nota che le mod non vengono aggiornate da noi, ma dai loro sviluppatori, quindi non sappiamo quanto tempo ci vorr
+ notre application de temps en temps pour v
+n temporalmente!
+o depois de jogar com ela por um tempo!
+o depois de jogar com ele por um tempo!
+o do tempo
+o envolvidos com um aviso especial ocultando temporariamente sua apar
+ o mais inteligente pelo tempo que quiser, mas a resposta de por que todos est
+onEachBadAttempt2
+o sabemos quanto tempo levar
+o temos tempo para acompanhar centenas de mods e suas atualiza
+o tempor
+o temporariamente redefinidas!
+O tempo total de jogo
+, ou analisar seu movimento, mira e outros pacotes do cliente no lado do servidor por muito mais tempo do que para usu
+package:exloader/logic/utils/temp_ban.dart
+package:exloader/network/protocol/client/packets/user_temporary_request.dart
+package:exloader/network/protocol/server/packets/user_temporary_update.dart
+package:exloader/ui/screens/subicon_screen/templates.dart
+Par temps de lecture total
+Per tempo totale di riproduzione2
+Pilih direktori tempat file ExLoader akan ditempatkan
+ pode ocultar temporariamente todas as estat
+Popular en la temporada
+Popular na temporada
+Por tempo total reproduzido
+%ProgramFiles%
+ProgramFiles
+%PROGRAMFILES%
+PROGRAMFILES
+%PROGRAMFILES%\nodejs
+%ProgramFiles(x86)%
+%PROGRAMFILES(x86)%
+PROGRAMFILES(X86)
+%PROGRAMFILES(x86)%\nodejs
+%PROGRAMFILES(X86)%\Yandex\YandexBrowser\Application\browser.exe2
+%PROGRAMFILES%\Yandex\YandexBrowser\Application\browser.exe
+Puedes ocultar temporalmente todas las estad
+Puoi nascondere temporaneamente tutte le statistiche del tuo profilo in modo che sembri un nuovo account nel caso ti venga chiesto di superare un controllo del server della community dai moderatori per l'assenza di mod sul tuo pc. Oppure, puoi eliminare permanentemente il tuo account, ma questa azione
+ questo processo richiede tempo, puoi nascondere la finestra di ExLoader durante questa pulizia. Quando la pulizia sar
+Qurilmangizda buyruq satri yetishmayotganga o'xshaydi. Ushbu muammoni hal qilish uchun cmd.exe faylini tizim diskidagi Windows\System32 papkasiga qaytaring. Afsuski, bu harakatsiz ExLoader to'g'ri ishlay olmaydi.
+_readAppData@645344569
+Reestr, ShellBugs, LastActivityView, Yuklamalar, Recent, Hujjatlar, AppData, Arxiv tarixi, O'yin papkasi, Tarmoq trafigi ... - ilova izlari, kutubxonadagi o'zgartirishlar va ularning konfiguratsiyalari bu barcha joylardan to'liq o'chiriladi, xuddi siz ExLoader'ni hech qachon yuklamagandek!
+regex:allow_replace:\.exe
+Registro, ShellBugs, LastActivityView, Descargas, Recientes, Documentos, AppData, Historial de archivos, Carpeta del juego, Tr
+Registro, ShellBugs, LastActivityView, Download, Recenti, Documenti, AppData, Cronologia archivi, Cartella di gioco, Traffico di rete ... - le tracce dell'applicazione, le modifiche dalla libreria e le loro configurazioni saranno completamente cancellate da tutti questi luoghi come se non avessi mai scaricato ExLoader!2
+Registro, ShellBugs, LastActivityView, Downloads, Recentes, Documentos, AppData, Hist
+Registry, ShellBugs, LastActivityView, Downloads, Recent, Documents, AppData, Archive History, Game Folder, Network traffic ... - ang mga bakas ng application, mga pagbabago mula sa library at kanilang mga configuration ay ganap na mabubura mula sa lahat ng mga lugar na ito na para bang hindi mo kailanman na-download ang ExLoader!
+Registry, ShellBugs, LastActivityView, Downloads, Recent, Documents, AppData, Archive History, Game Folder, Network traffic ... - traces of the application, modifications from the library and their configurations will be completely erased from all these places as if you had never even downloaded ExLoader!
+Registry, ShellBugs, LastActivityView, Downloads, Recent, Dokumente, AppData, Archivverlauf, Spielordner, Netzwerkverkehr ... - Spuren der Anwendung, Modifikationen aus der Bibliothek und deren Konfigurationen werden vollst
+Registry, ShellBugs, LastActivityView, Unduhan, Terbaru, Dokumen, AppData, Riwayat Arsip, Folder Game, Lalu lintas jaringan ... - jejak aplikasi, modifikasi dari perpustakaan dan konfigurasinya akan dihapus sepenuhnya dari semua tempat ini seolah-olah Anda tidak pernah mengunduh ExLoader!
+Remove-ItemProperty
+ressante : le temps moyen que les gens passent avec ce mod est de {time} {time_word} (Pour tout le temps d'utilisation de la modification par utilisateur)
+rieur des processus. Comme ce processus prend du temps, vous pouvez masquer la fen
+rification automatique a temporairement restreint ton acc
+rifiez-la de temps en temps pour ne pas manquer la r
+roamingAppDataPath
+ saranno avvolti con un avviso speciale che nasconde temporaneamente il loro aspetto
+ sem a linha de comando. Para resolver este problema, retorne o arquivo cmd.exe para a pasta Windows\System32 no seu disco do sistema. Infelizmente, o ExLoader n
+Sembra che sul tuo dispositivo manchi la riga di comando. Per risolvere questo problema, ripristina il file cmd.exe nella cartella Windows\System32 sul disco di sistema. Purtroppo, senza questa azione ExLoader non potr
+Sembra che tu abbia ignorato troppi avvisi anti-spam riguardanti contenuti non informativi, spam, pubblicitari o ingannevoli! Per salvarti dal ban del moderatore, il sistema di controllo automatico ha temporaneamente limitato il tuo accesso ad alcune funzionalit
+sen, stellen Sie die Datei cmd.exe im Ordner Windows\System32 auf Ihrem Systemlaufwerk wieder her. Leider kann ExLoader ohne diese Aktion nicht ordnungsgem
+ serveur beaucoup plus longtemps que pour les utilisateurs normaux. Essayez simplement d'utiliser des fonctionnalit
+SharedAppData
+_SharedAppDataState@217433526
+Sometimes mods are designed for a specific version of a game, in such occasions you will only be able to launch them for the specifically selected version from this list. If this dialog displays a list of versions for a game, then you can only use this mod with that version of the game that you selected here! Attempt to launch a different version of the game will result in crash or mod not working/not launching at all.
+SoundsSystemPlayerMode
+SoundsSystemPlayerMode.
+SoundSystemProvider
+SoundSystemProvider.
+s sont GRATUITES ! La plupart du temps, nous sp
+Statistica interessante: il tempo medio che le persone trascorrono con questa mod
+system32
+System32
+system32Path
+SystemAppData
+systemProcessInformation
+SystemProcessInformationStruct
+%SYSTEMROOT%\System32\Winevt\Logs\Application.evtx
+t als auch den tempor
+Tampaknya perangkat Anda kehilangan command line. Untuk mengatasi masalah ini, kembalikan file cmd.exe ke folder Windows\System32 di drive sistem Anda. Sayangnya, ExLoader tidak akan berfungsi dengan baik tanpa tindakan ini.2
+Tautan unduhan untuk versi bajakan game ini tersedia di perpustakaan ExLoader, tempat semua mod untuk {game} berada!
+Temp
+TEMP
+_temp_backup
+TempLocalBan
+Tempo de recarga para alterar campos do perfil como avatar, apelido, status, etc.
+Tempo di gioco medio
+Tempo di ricarica per modificare i campi del profilo come avatar, nickname, stato, ecc.
+Tempo giocato con mod:
+Tempo jogado com mod:
+Tempo m
+ temporalmente tu acceso a algunas funciones sociales de la aplicaci
+temporaryExpires2
+temporaryFreeTimestamp
+Temporary Redirect
+_temporaryTransformHolder@261266271
+Temporary unavailable
+"temporary-value"
+Temps de jeu moyen
+Temps de recharge pour modifier les champs du profil comme l'avatar, le pseudo, le statut, etc.
+Temps jou
+Tentukan jalur di bawah ini tempat {game} diinstal. Anda perlu memilih folder tempat file game utama ({proc}) berada
+tes le plus intelligent aussi longtemps que vous le souhaitez, mais la r
+_TextSelectionToolbarItemPosition.
+_TextSelectionToolbarItemPosition@921266727
+There was an attempt to access the "
+tica restringiu temporariamente seu acesso a alguns recursos sociais do aplicativo! Seu banimento expira em {date}.
+Tidak, kami tidak bisa, kami tidak mengembangkan, tidak membuat dan tidak memperbarui mod. ExLoader hanyalah perpustakaan besar yang mengumpulkan mod terpercaya dari berbagai penulis di satu tempat. Jika mod sudah ada dan diperiksa virusnya oleh sumber terpercaya seperti UnKnoWnCheaTs - kami bisa menambahkannya. Jika mod sudah usang - tidak, kami tidak bisa menambahkannya. Dan tidak, kami tidak bisa memperbaruinya.
+ {time} {time_word} (Por todo o tempo usando a modifica
+Unable to get temporary directory
+%userprofile%\\appdata\\roaming
+%userprofile%\appdata\roaming
+Usually this variable accounts both size needed to store mod' cache files on device and temporary size needed to unpack them before launch or final installation. You can also estimate RAM usage during launch/installation based on this variable divided by ~2.
+veloppeurs, donc nous ne savons pas combien de temps il faudra pour que ce mod soit mis
+Vous pouvez temporairement masquer toutes les statistiques de votre profil pour qu'il ressemble
+ Windows depuis longtemps. Cette fonctionnalit
+You can temporary hide all of your profile statistics so that it looks like a new account in case you are asked to pass a community server check by moderators for absence of mods on your pc. Or, you may permanently delete your account, but this action is irrecoverable!
+Your profile is hidden until {date}. Next time you restart the app, profile statistics will temporary reset!
