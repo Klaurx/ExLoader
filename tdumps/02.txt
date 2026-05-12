@@ -1,0 +1,146 @@
+advanced micro devices
+ a livello Kernel (livello driver), devi disinstallarlo, riavviare il dispositivo e provare a lanciare di nuovo questa mod. Inoltre, assicurati che il tuo antivirus ({antivirus-list}) non blocchi l'accesso al gioco per l'app ExLoader.
+Ang anticheat ng laro na naka-install sa iyong device o ang iyong antivirus, o pareho ay nag-lock ng memory ng proseso ng laro.
+Ang mensahe na ang app ay gumagana sa offline mode o hindi makakonekta sa server nito ay lumalabas lamang kapag may problema sa IYONG panig. Halimbawa, ang internet provider, antivirus, firewall o iba pang software na may kaugnayan sa network ay humaharang sa koneksyon sa ExLoader server. Gusto mong ayusin ang problemang ito? Gumamit ng VPN. Hindi nakatulong ang VPN? Ibig sabihin gumamit ka ng masamang VPN. Hindi mo gusto ang VPN? Hanapin kung ano sa iyong device ang humaharang sa koneksyon sa server ng app. Ano eksaktong humaharang sa koneksyon at paano ito hahanapin? Wala kaming ideya, dahil para sa amin at sa daan-daang libong iba pang mga user ay gumagana nang perpekto ang lahat.
+Ang pagbabagong ito ay nangangailangan ng Steam na naka-install sa iyong device. I-install ang Steam at subukan muli!
+Approximate unused space needed on your device for this mod: {space}
+areCoreIsolatedAndDriversVulnerabilityCheckEnabled
+^(?!.*\.\.)(?!.*[^a-zA-Z0-9_.]).{2,32}$
+BaseDeviceInfo
+BaseDeviceInfo{data:
+Bersyon ng driver. Sa ilang mga kaso, maaaring kailanganin ang isang beses na paunang pag-configure ng PC sa BIOS.
+_calculateDeviceRect@152183791
+Contoh anticheat populer yang mungkin melakukan itu: {anticheat-list} dll. Bahkan jika anticheat diinstal untuk game lain, itu masih mengunci banyak fitur sistem yang diperlukan untuk meluncurkan mod. Jika anticheat adalah Kernel (tingkat Driver) maka kamu harus menghapus instalasinya, restart perangkatmu dan coba luncurkan mod ini lagi. Juga, pastikan antivirusmu ({antivirus-list}) tidak memblokir akses ke game untuk aplikasi ExLoader.
+_convertDeviceType@53443624
+Daftar Blokir Driver Rentan Microsoft
+dev.fluttercommunity.plus/device_info
+\device\
+device
+DeviceFileSource2
+DeviceFileSource(path:
+DeviceGestureSettings
+DeviceGestureSettings.fromView
+DeviceGuard
+deviceId
+deviceInfo
+[Device info]:
+DeviceInfoPlatform
+DeviceInfoPlatform.
+DeviceInfoPlugin2
+`device_info_plus` threw an error:
+DeviceInfoPlusWindowsPlugin
+DeviceInfoPlusWindowsPlugin.
+devicePixelRatio2
+_devicePixelRatio@211019050
+_devicePixelRatioForView@85304576
+devicePixelRatioOf
+Device security
+DeviceSettingDescription
+DISPLAY_DEVICE
+dragDevices
+{DriverMode}
+_DriverState.
+_DriverState@598316213
+Driver version. In some cases, a one-time pre-configuration of the PC in BIOS may be required.
+EnumDisplayDevices
+_EnumDisplayDevices@474426514
+EnumDisplayDevicesW
+Example of popular anticheats that might do that: {anticheat-list} etc. Even if anticheat is installed for another game, it still locks a lot of system features needed for mods launching. If anticheat is Kernel (Driver level) then you have to uninstall it, restart your device and try launching this mod again. Also, make sure that your antivirus ({antivirus-list}) does not block access to the game for ExLoader app.
+Failed to create driver service:
+Failed to get BaseDeviceInfo:
+Failed to load mod' extra driver:
+Failed to load mod' extra driver2
+Failed to start driver service: 2
+First boot device
+ for {user} user. Do not forget to restart your device after such changes!
+Game anticheat installed on your device or your antivirus, or both of them have locked game's process memory.
+get:device
+get:deviceInfo
+getDeviceInfo
+get:devicePixelRatio
+get:_devicePixelRatio@152183791
+get:DeviceString2
+get:_DeviceString@462080296
+get:dragDevices
+get:driverMode
+Halimbawa ng mga popular na anticheat na maaaring gumawa nito: {anticheat-list} atbp. Kahit na ang anticheat ay naka-install para sa ibang laro, naka-lock pa rin ito ng maraming system features na kailangan para sa paglulunsad ng mods. Kung ang anticheat ay Kernel (Driver level) kailangan mong i-uninstall ito, i-restart ang iyong device at subukang i-launch muli ang mod na ito. Siguraduhin din na ang iyong antivirus ({antivirus-list}) ay hindi humahadlang sa access sa laro para sa ExLoader app.
+handleDeviceCursorUpdate
+_handleDeviceUpdate@260437380
+_handleDeviceUpdateMouseEvents@260437380
+Hindi kailangang naka-install na ito sa iyong device, gumawa lang ng pinaka-komportableng pagpili:
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity
+If any files of this mod were present on your device, now they are deleted!
+If there were no recent game updates, then try these steps: delete directx runtime and install the latest version again, delete microsoft vc++ components (AND any other components mod required) and install them again (latest and required versions). Did not help? Disable and delete your antiviruses (Including Windows Defender). Did not help? Try reinstalling Windows (To the latest one). Did not help? Yout PC/Device (probably CPU architecture or GPU are unsupported by mod, this is not fixable unless you switch PC/Device).
+If you already installed these components but dialog does not disappear then you've installed the wrong version or old version of components conflicts with new one. To fix this go to your system programs uninstall tool, delete all mentioned components, restart your device, open ExLoader again and install these components from scratch!2
+init:_EnumDisplayDevices@474426514
+init:_QueryDosDevice@471372610
+. Is something for device available:
+. Is something for non-device available:
+It does not need to be already installed on your device, just make most comfortable choice:
+It seems that the modification you tried to launch has causes a game crash! Note, that it's not the ExLoader problem, but modification's or your device's issue. For more information click the button below!
+It seems that your device is missing the command line. To solve this problem, return cmd.exe file to the Windows\System32 folder on your system drive. Unfortunately, ExLoader won't work properly without such action on your side.
+Karaniwang isinasama ng halaga na ito ang parehong espasyo na kailangan para sa pag-imbak ng mga cache file ng mod sa device at ang pansamantalang espasyo na kailangan para i-unpack ang mga ito bago ilunsad o ang huling pag-install. Maaari mo ring tantyahin ang paggamit ng RAM sa panahon ng paglulunsad/pag-install batay sa halagang ito na hinati sa ~2.
+KeyEventDeviceType
+KeyEventDeviceType.
+Kung may mga file ng mod na ito sa iyong device, ngayon ay nabura na ang mga ito!
+Kung na-install mo na ang mga bahaging ito ngunit hindi nawawala ang dialog, nag-install ka ng maling bersyon o ang lumang bersyon ng mga bahagi ay sumasalungat sa bago. Upang ayusin ito, pumunta sa iyong system programs uninstall tool, tanggalin lahat ng nabanggit na bahagi, i-restart ang iyong device, buksan muli ang ExLoader at i-install ang mga bahaging ito mula sa simula!
+Kung walang kamakailang update ng laro, subukan ang mga hakbang na ito: tanggalin ang directx runtime at i-install muli ang pinakabagong bersyon, tanggalin ang mga microsoft vc++ component (AT anumang iba pang component na kailangan ng mod) at i-install muli ang mga ito (pinakabago at kinakailangang bersyon). Hindi nakatulong? I-disable at tanggalin ang iyong mga antivirus (Kasama ang Windows Defender). Hindi nakatulong? Subukang i-reinstall ang Windows (Sa pinakabago). Hindi nakatulong? Ang iyong PC/Device (malamang ang CPU architecture o GPU ay hindi suportado ng mod, hindi ito maaayos maliban kung magpalit ka ng PC/Device).
+Lista de bloqueio de drivers vulner
+Maghintay para sa ExLoader assistant na i-download at i-install ang mga file sa iyong device...
+maybeDevicePixelRatioOf
+Means that this version is not supported on your device or just not available for use
+menuKeyToDeviceKey
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+MethodChannelDeviceInfo
+MethodChannelDeviceInfo.
+Microsoft Vulnerable Driver Blocklist
+Mukhang ang modipikasyon na sinubukan mong ilunsad ay nagdulot ng pag-crash ng laro! Tandaan na hindi ito problema ng ExLoader, kundi ng modipikasyon o ng iyong device. Para sa higit pang impormasyon i-click ang button sa ibaba!
+Mukhang nawawala ang command line sa iyong device. Para malutas ang problemang ito, ibalik ang cmd.exe file sa Windows\System32 folder sa iyong system drive. Sa kasamaang palad, hindi gagana nang maayos ang ExLoader kung walang ganitong aksyon.
+Nabigo kaming i-download o i-unpack ang mga mod file sa iyong device
+Nangangahulugang ang bersyong ito ay hindi suportado sa iyong device o hindi lang available para gamitin
+Nang subukan naming ilunsad ang mod na ito, nalaman namin na nawawala ang mga component ng Microsoft VC++/DirectX End-User Runtime sa iyong device. Hindi bababa sa mga kinakailangan para mailunsad ang mod na ito. Kung na-install mo na ang mga component na ito at iniisip mo na ito ay bug - hindi ito bug. Ang error na ito ay ipinapakita lamang sa mga kritikal na sitwasyon kapag talagang may seryosong problema sa mga component ng VC++/DirectX. Sa ilang mga kaso kailangan mong manu-manong tanggalin ang mga component na ito mula sa iyong device bago muling i-install ang bersyon na kinakailangan para sa mod na ito!
+nearbyWifiDevices
+o do driver. Em alguns casos, pode ser necess
+package:device_info_plus/device_info_plus.dart
+package:device_info_plus_platform_interface/device_info_plus_platform_interface.dart
+package:device_info_plus_platform_interface/method_channel/method_channel_device_info.dart
+package:device_info_plus_platform_interface/model/base_device_info.dart
+package:device_info_plus/src/device_info_plus_windows.dart
+package:device_info_plus/src/model/windows_device_info.dart
+Pakitandaan na ang mga feature ng sound effects ay maaaring gumana nang may kaunting pagkaantala sa mga lumang device
+ para sa {user} user. Huwag kalimutang i-restart ang iyong device pagkatapos ng mga pagbabagong ito!
+Please, note that the sound effects features may work with a slight delay on old devices
+PointerDeviceKind
+PointerDeviceKind.
+QueryDosDevice
+_QueryDosDevice@471372610
+QueryDosDeviceW
+regex:allow_replace:[a-zA-Z]+:\/\/(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[[0-9a-fA-F:]+\])
+regex:allow_replace:(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[[0-9a-fA-F:]+\]):\d+
+Sa kasamaang palad, ang CPU (processor) ng iyong device ay hindi suportado ng modipikasyong ito. Wala kaming magagawa tungkol dito. Imposibleng i-launch ang mod na ito o ang bersyon na ito ng mod (kung pinili gamit ang bersyon) sa iyong device. Para ma-launch ito, ang iyong CPU ay dapat suportahan ang mga sumusunod na features o instruction sets: {list}
+Sa kasamaang palad, ang iyong antivirus program o firewall ay hindi pinapayagan ang ExLoader na mag-download, mag-unpack o gumamit ng mga kinakailangang file ng mod. Para magpatuloy, suriin ang mga setting ng iyong antivirus at firewall software at subukang muli! Sa ilang mga kaso, hindi sapat ang pag-disable lang ng antivirus, maaaring kailanganin mong tanggalin ito at i-restart ang iyong device kung hindi mawawala ang error
+set:devicePixelRatio
+setSourceDeviceFile
+Since you are using a non-android device right now, we can only help you to download mod' file onto your device so that you can manually transfer it to your Android phone or Emulator for manual installation. If you do not know how to do that, just download ExLoader right onto your phone or emulator and install mod directly onto it!
+(\S+\.\S+/\S+)
+startDriver
+supportedDevices2
+.sys
+SystemChrome.systemUIChange
+test-sign-driver2
+This modification requires Steam to be installed on your device. Install Steam and try again!
+Tinatayang bakanteng espasyo na kailangan sa iyong device para sa mod na ito: {space}
+Unfortunately, your antivirus program or firewall does not allow ExLoader to download, unpack or use mod' necessary files. To continue, check your antivirus and firewall software settings and try again! In some cases just disabling the antivirus is not enough, you might need to delete it and restart your device after that if error does not disappear
+Unfortunately, your device CPU (processor) is not supported by this modification. There is nothing we can do about it. It's impossible to launch this mod or this version of mod (if selected with version) on your device. In order to launch it, your CPU must support these features or instruction sets: {list}
+updateAllDevices2
+Usually this variable accounts both size needed to store mod' cache files on device and temporary size needed to unpack them before launch or final installation. You can also estimate RAM usage during launch/installation based on this variable divided by ~2.
+vel de driver), ent
+Versi driver. Dalam beberapa kasus, mungkin diperlukan pra-konfigurasi PC satu kali di BIOS.
+Versione driver. In alcuni casi potrebbe essere necessaria una configurazione preliminare una tantum del PC nel BIOS.
+VulnerableDriverBlocklistEnable
+Wait for ExLoader assistant to download and install it's files onto your device...
+We have failed to download or unpack mod files onto your device
+When we tried to launch this mod we found out that Microsoft VC++/DirectX End-User Runtime components are missing on your device. At least those that are required by this mod to be launched. If you already installed these components and think that it's a bug - it is not. We will not display this message unless there is something critically wrong with these components. In some cases you have to manually delete them from your PC before installing new version, that is required by this mod!
+WindowsDeviceInfo
+You will see that app is using an offline mode or can not connect to it's sever only when there is a problem on YOUR side. Something is blocking your connection to app's server. For example internet provider, antivirus, device firewall, some other network-related software. How to fix it? Try using VPN. VPN did not help? Then you tried bad VPN. Do not like VPN? Then find what is blocking your connection to the app. What is it and how to find it? We do not know, because for us and for hundreds of thousands of other users everything works perfectly fine.
+Zombie Driver Skidmarks.png
