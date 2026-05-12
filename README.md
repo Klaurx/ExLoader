@@ -37,9 +37,9 @@ All evidence in this repository is string-based, extracted directly from the bin
 | 16_ui_feature_map.md | Full AssetManifest.json breakdown mapped to inferred application features |
 | 17_attribution_artifacts.md | Developer LAN IP leaked in binary, build artifacts, identity indicators |
 | 18_risk_summary.md | Risk classification table by capability area |
-| 19_reporting_channels.md | Recommended disclosure targets with contact references |
 
 ---
+Also, i will be giving a terminal dump(Aka my full terminal copy-pasted.)
 
 ## Summary of Key Findings
 
