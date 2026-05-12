@@ -13,6 +13,8 @@ Static analysis of the primary application binary (data/app.so, 21 MB of compile
 
 All evidence in this repository is string-based, extracted directly from the binary without execution. Where a string's origin is ambiguous (for example, strings that may originate from vendored cryptography libraries), that ambiguity is noted in the relevant file.
 
+Also i **HIGHLY** recommend using "Cutter" tool. It has helped me extremely a lot in this project and many others.(It reminds me of a "modernized ghidra")
+
 ---
 
 ## Repository Structure
