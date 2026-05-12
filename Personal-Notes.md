@@ -23,11 +23,17 @@ I only used strings, and radare2, ofc i also tried ghidra and rizin, but dude ca
 It's clear already that it's a virus, we have WAAAAAAAAAAAAY more than "enough" to CLEARLY determine this is pure malware. I am sorry, but i will not push further into this useless ass system. 
 
 Sorry if i let some people down, i admit, this repo has been sloppy, but i;
+
 RE'd
+
 Docuemnted
+
 Analyzed
+
 Responded
+
 Validated
+
 And much more in under 5 hours in 1 night after school, i swear 1 more hour ill go insane lmao.
 
 And don't as "why not do it later?", i don't. I REFUSE to spend 10 more minutes let alone days on this shitty ass, clearly-malware program.
