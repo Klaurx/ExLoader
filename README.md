@@ -59,7 +59,7 @@ Antivirus products are enumerated by name via their uninstall registry paths: Av
 
 A developer LAN IP address (192.168.2.220) is hardcoded in the production binary, leaked from the build environment.(Dumbass)
 
-![Demo GIF](https://i.imgflip.com/arox81.gif)
+![Image](./aroxis.jpg)
 
 ---
 
